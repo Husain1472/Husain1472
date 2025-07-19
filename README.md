@@ -11,8 +11,7 @@
   - [Breaking into Web Application](https://github.com/Husain1472/OWASP-Juice-Shop)
 
 - <b>🔎 CS50 Cybersecurity Final Project</b>  
-  - Researched a real-world API breach (U.S. Treasury, 2024)  
-  - Created a video breakdown of attack flow, CVE impact, and remediation
+  - [US Treasury Breach](https://www.youtube.com/watch?v=BiKutcutrjA&t=219s)
 
 <h2>🎓 Certifications & Skills</h2>
 
