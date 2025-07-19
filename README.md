@@ -1,5 +1,5 @@
 <h1>Hi, I'm Husain!<br/>
-<a href="https://www.linkedin.com/in/husain72">Cybersecurity Enthusiast</a> |
+<a href="https://www.linkedin.com/in/husain72">Cybersecurity Enthusiast</a> 
 <h2>🛡️ Cybersecurity Projects & Labs</h2>
 
 - <b>🔐 Active Directory Penetration Lab</b>  
