@@ -8,8 +8,7 @@
   - Techniques: Pass-the-Hash, Kerberoasting, Privilege Escalation
 
 - <b>☠️ OWASP Juice Shop Exploitation</b>  
-  - Performed attacks like XSS, SQLi, brute force, insecure JWT  
-  - Tools: Burp Suite, Firefox Dev Tools
+  - [Breaking into Web Application](https://github.com/Husain1472/OWASP-Juice-Shop)
 
 - <b>🔎 CS50 Cybersecurity Final Project</b>  
   - Researched a real-world API breach (U.S. Treasury, 2024)  
